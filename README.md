@@ -3,7 +3,7 @@
 <br>
 
 <h2>✨ Features</h2>
-🔑 Lucia-powered Session Management<br>
+🔑 Lucia-powered Session Managemen<br>
 🔗 GitHub OAuth integration<br>
 🔗 Google OAuth (optional)<br>
 🛡️ Two-Factor Authentication (TOTP)<br>
