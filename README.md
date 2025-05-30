@@ -44,5 +44,8 @@ Content-Type: application/json
   "totp": "123456"
 }
 </details>
+## Contributors 
+1. Aditya Kumar Singh
+2. Mallidi V S Shankar Reddy 
 
 
