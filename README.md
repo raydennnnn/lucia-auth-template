@@ -43,9 +43,11 @@ Content-Type: application/json
   "userId": "abc123",
   "totp": "123456"
 }
-</details>
+
 ## Contributors 
 1. Aditya Kumar Singh
 2. Mallidi V S Shankar Reddy 
+</details>
+
 
 
